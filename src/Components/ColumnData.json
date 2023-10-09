@@ -1,0 +1,9 @@
+[
+    {"srNo":"112","formName":"Comp","fieldName":"Process","accessor":"process","formId":"NAV-108","columnFilter":"text"},
+    {"srNo":"114","formName":"Comp","fieldName":"Result","accessor":"result","formId":"NAV-108","columnFilter":"text"},
+    {"srNo":"113","formName":"Comp","fieldName":"Remark","accessor":"remark","formId":"NAV-108","columnFilter":"text"}
+]
+
+
+
+

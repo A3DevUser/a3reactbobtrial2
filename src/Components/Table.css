@@ -1,0 +1,66 @@
+table{
+  border: 1px solid grey;
+}
+td{
+  border: .1px solid grey;
+}
+
+th{
+border: 1px solid white;
+}
+
+table{
+  background-color: #8daee3;
+}
+thead{
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  background-color: #adb5bd;
+
+}
+
+table th:nth-child(1),table th:nth-child(2),table th:nth-child(3){
+  background-color: #adb5bd;
+  
+}
+
+table td:nth-child(1),table td:nth-child(2),table td:nth-child(3){
+  background-color: white;
+}
+
+td{
+  background-color: white;
+}
+
+table th:nth-child(1),table td:nth-child(1)
+{
+position:sticky;
+left: 0;
+z-index: 9;
+}
+
+table th:nth-child(2),table td:nth-child(2)
+{
+position:sticky;
+left: 16.04vw;
+}
+
+table th:nth-child(3),table td:nth-child(3)
+{
+position:sticky;
+left: 32.02vw;
+
+}
+
+.fileLink:hover{
+color: #000099;
+}
+
+.fileLink{
+color: #0000ff;
+cursor: pointer;
+text-decoration: underline;
+}
+
+

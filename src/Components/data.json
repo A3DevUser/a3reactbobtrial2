@@ -1,0 +1,23 @@
+{
+  "PartySheets": [
+    {
+      "id": 1,
+      "sheetName": "Party Sheet 1 - 2",
+      "startPoint": 1,
+      "endPoint": 2
+    },
+    {
+      "id": 1,
+      "sheetName": "Party Sheet 3 - 4",
+      "startPoint": 3,
+      "endPoint": 4
+    }
+  ],
+  "AuditDetails": 
+    {
+      "id": "98285FEC-D8DF-4B3A-BCFB-73E14016B169",
+      "title": "Sample Audit",
+      "SOLID": "101"
+    }
+
+}

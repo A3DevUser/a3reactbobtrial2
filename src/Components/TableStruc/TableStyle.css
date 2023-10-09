@@ -1,0 +1,13 @@
+table, tr, td, th{
+    border: 1px solid black;
+}
+
+.fileName:hover{
+    color: darkblue;
+    }
+    
+    .fileName{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+    }
